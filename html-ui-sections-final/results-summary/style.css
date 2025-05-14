@@ -1,0 +1,22 @@
+.summary-card {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  border-radius: 10px;
+}
+.summary-card h2 {
+  margin-bottom: 15px;
+  color: #444;
+}
+.summary-card ul {
+  list-style: none;
+  padding: 0;
+}
+.summary-card li {
+  margin: 8px 0;
+  font-size: 16px;
+  color: #333;
+}
